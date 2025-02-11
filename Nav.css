@@ -1,0 +1,17 @@
+.id{
+display: grid;
+justify-content: center;
+}
+
+
+nav{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(149, 202, 100);
+     
+}
+
+nav:hover{
+    background-color: rgba(206, 62, 62, 0.2);
+    border-radius: 5px;
+  }

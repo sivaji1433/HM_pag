@@ -1,0 +1,23 @@
+.nav1,ul{
+    width:100%;
+    display: flex;
+    justify-content: space-between;
+    /* margin-bottom: 200px; */
+   /* bottom: 100px; */
+
+     gap: 30px;
+       
+    }
+
+
+
+    li{ 
+        list-style: none;
+    }
+    .p1{
+        height: 100px;
+        width: 100px;
+       border-radius: 20%;
+        
+    }
+
